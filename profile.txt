@@ -1,1 +1,5 @@
+Skills:
+- Git
+- Python
+- Communication
 
